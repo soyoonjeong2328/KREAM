@@ -5,3 +5,5 @@ gradlew
 gradlew.bat
 settings.gradle
 테이불.txt
+/src/main/resources/application.properties
+/src/main/resources/application.yml
